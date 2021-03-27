@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\bin\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.exe
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\bin\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.deps.json
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\bin\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.runtimeconfig.json
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\bin\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\bin\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.dll
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\bin\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.pdb
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\obj\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\obj\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\obj\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\obj\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\obj\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.dll
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\obj\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.pdb
+C:\Users\Dell\source\repos\Altas, bajas, cambios y curps's\Altas, bajas, cambios y curps's\obj\Debug\netcoreapp3.1\Altas, bajas, cambios y curps's.genruntimeconfig.cache
